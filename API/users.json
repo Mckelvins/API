@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "email": "fwwweftgw@greghe.lb",
+    "data": {
+      "data1": 12345,
+      "data2": 67890
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bravo",
+    "email": "fwwweftgw@greghe.lb"
+  },
+  {
+    "id": 3,
+    "name": "Nigeria",
+    "email": "fwwweftgw@greghe.lb"
+  },
+  {
+    "id": 4,
+    "name": "Morty",
+    "email": "fwwweftgw@greghe.lb"
+  }
+]
